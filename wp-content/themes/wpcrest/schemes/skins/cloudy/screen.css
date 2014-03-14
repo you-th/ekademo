@@ -1,0 +1,78 @@
+html {
+	background-color: #f6dfb5;
+}
+.wpc-links {
+	background-color: #d2c4a9;
+	border-top-color: #162930;
+}
+.wpc-links .wpc-navigation .sub-menu li:nth-child(odd) > a {
+	background-color: #e6decf;
+}
+.wpc-links .wpc-navigation .sub-menu li:nth-child(even) > a {
+	background-color: #dbd1bf;
+}
+.wpc-links .wpc-navigation li > a:hover, .wpc-links .wpc-navigation .current-menu-item > a {
+	background-color: #162930 !important;
+}
+.wpc-slider .wpc-slide .wpc-date {
+	background-color: #d2c4a9;
+}
+.wpc-slider .wpc-line span {
+	background-color: #d2c4a9;
+}
+.wpc-slider .wpc-pager span:hover, .wpc-slider .wpc-pager .wpc-active, .wpc-scroller .wpc-direction img:hover {
+	background-color: #d2c4a9;
+}
+.wpc-scroller .wpc-scroll li:hover .wpc-details, .wpc-type-portfolio-preview:hover .wpc-details {
+	border-bottom-color: #d2c4a9;
+}
+.wpc-teaser .wpc-link a {
+	background-color: #162930;
+	border-bottom-color: #102730; border-right-color: #102730;
+	border-top-color: #0c252f; border-left-color: #0c252f;
+	color: #fff;
+}
+.wpc-teaser .wpc-link a:hover {
+	background-color: #0f1b20;
+	border-bottom-color: #0a191f; border-right-color: #0a191f;
+	border-top-color: #081920; border-left-color: #081920;
+}
+.wpc-teaser .wpc-link span {
+	border-top-color: #203c46; border-left-color: #203c46;
+}
+.wpc-type-portfolio-full .wpc-gallery .wpc-direction img:hover {
+	background-color: #b4d6da;
+}
+.wpc-blog-sidebar a:hover {
+	color: #162930;
+}
+.wpc-pagination a, .wp-pagenavi * {
+	background-color: #b4d6da;
+	border-color: #a1bfc3;
+}
+.wpc-pagination a:hover, .wp-pagenavi .current {
+	background-color: #a1bfc3;
+	border-color: #85a3a7;
+}
+.wpc-comments .comment-reply-link {
+	background-color: #111;
+}
+.wpc-comments .comment-reply-link:hover {
+	background-color: #b4d6da;
+	color: #111;
+}
+.wpc-type-attachment .wpc-navigation img:hover {
+	background-color: #b4d6da;
+}
+.wpc-panel > ul > li a {
+	color: #d2c4a9;
+}
+.wpc-panel > ul > li li a:hover {
+	color: #d2c4a9;
+}
+.wpc-footer {
+	background-color: #162930;
+}
+.wpc-footer a {
+	color: #b4d6da;
+}

@@ -1,0 +1,8 @@
+/**
+ * @package WordPress
+ * @subpackage WPCrest
+ */
+
+.wpc-loading {
+	display: none;
+}

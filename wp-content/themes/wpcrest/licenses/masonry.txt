@@ -1,0 +1,3 @@
+Copyright © 2012 David DeSandro
+Licensed under the MIT license
+http://masonry.desandro.com/docs/intro.html#license

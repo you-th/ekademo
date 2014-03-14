@@ -1,0 +1,1154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCrest v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-31 01:26+0530\n"
+"PO-Revision-Date: 2013-12-31 01:26+0530\n"
+"Last-Translator: Naif Amoodi <naif@rhyzz.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ vertex
+#: ../attachment.php:59
+msgid "Previous"
+msgstr ""
+
+# @ vertex
+#: ../attachment.php:65
+msgid "Next"
+msgstr ""
+
+# @ vertex
+#: ../comments.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+# @ vertex
+#: ../comments.php:19
+#, php-format
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ vertex
+#: ../comments.php:38
+msgid "Comment"
+msgstr ""
+
+# @ vertex
+#: ../comments.php:39
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:40
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:42
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+# @ vertex
+#: ../comments.php:44
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Email"
+msgstr ""
+
+# @ vertex
+#: ../comments.php:46
+msgid "Website"
+msgstr ""
+
+#: ../footer.php:30
+#, php-format
+msgid "A WordPress Theme by %s."
+msgstr ""
+
+# @ vertex
+#: ../footer.php:45
+msgid "Decrease Size"
+msgstr ""
+
+# @ vertex
+#: ../footer.php:46
+msgid "Default Size"
+msgstr ""
+
+# @ vertex
+#: ../footer.php:47
+msgid "Increase Size"
+msgstr ""
+
+# @ vertex
+#: ../footer.php:134
+msgid "Scheme Switcher Toggle"
+msgstr ""
+
+#: ../functions.php:25
+msgid "Primary Navigation Menu"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:27
+msgid "Sidebar Widgets"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:29
+msgid "Panel Widgets"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:60
+msgid "Classic"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:61
+msgid "Anakiwa"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:62
+msgid "OuterSpace"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:63
+msgid "Jaffa"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:64
+msgid "Cloudy"
+msgstr ""
+
+#: ../functions.php:65
+msgid "Moonlit"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:66
+msgid "None"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:70
+msgid "Yummy Gradient"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:71
+msgid "Simple Blue Gradient"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:72
+msgid "Light and Dark Green"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:73
+msgid "Blueish Greenish"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:74
+msgid "Light Brown"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:75
+msgid "Melon"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:76
+msgid "Light Purple"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:77
+msgid "Regular Blue"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:78
+msgid "Light Blue"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:79
+msgid "Blurred Golden"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:80
+msgid "Light Green"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:81
+msgid "Simple Purple"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:82
+msgid "Mix of Three"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:83
+msgid "Simple Brown"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:84
+msgid "Diamond Green"
+msgstr ""
+
+#: ../functions.php:85 ../functions.php:102
+msgid "Default"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:89
+msgid "Shower Lines"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:90
+msgid "Random Dots"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:91
+msgid "45 Degree Fabric"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:92
+msgid "Woven"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:93
+msgid "Slant Bricks"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:94
+msgid "Noisy"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:95
+msgid "Textured Stripes"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:96
+msgid "Brick Wall"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:97
+msgid "Triangle"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:98
+msgid "Small Squares"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:99
+msgid "Square Tiles"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:100
+msgid "Gray Squares"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:101
+msgid "Overlapping Squares"
+msgstr ""
+
+#: ../functions.php:121 ../functions.php:409
+msgid "Search site here&hellip;"
+msgstr ""
+
+#: ../functions.php:187 ../functions.php:978
+#, php-format
+msgid "Copyright &copy; 2013 %1$s. All Rights Reserved."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:188 ../functions.php:987
+msgid "The page requested could not be found!"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:192 ../functions.php:1014
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:193 ../functions.php:1022
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:196 ../functions.php:1040
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:197 ../functions.php:1048
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:198 ../functions.php:1056
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:201 ../functions.php:1074
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr ""
+
+# @ vertex
+#: ../functions.php:202 ../functions.php:1082
+#, php-format
+msgid "Posts matching query \"%s\""
+msgstr ""
+
+# @ vertex
+#: ../functions.php:203 ../functions.php:1090
+#, php-format
+msgid "Pages matching query \"%s\""
+msgstr ""
+
+# @ vertex
+#: ../functions.php:206 ../functions.php:1107 ../functions.php:1108
+msgid "Blog"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:207 ../functions.php:1116
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:208 ../functions.php:985 ../functions.php:1123
+#: ../functions.php:1124
+msgid "404"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:212 ../functions.php:1142
+#, php-format
+msgid "Browser for attachments of %s"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:213 ../functions.php:1151
+#, php-format
+msgid "Image %s"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:214 ../functions.php:1158 ../functions.php:1159
+msgid "Font Size"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:215 ../functions.php:1167
+msgid "Select Skin"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:216 ../functions.php:1175
+msgid "Select Underlay Background"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:217 ../functions.php:1183
+msgid "Select Overlay Background"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:218 ../functions.php:1191
+#, php-format
+msgid "No results found for searched query \"%s\""
+msgstr ""
+
+# @ vertex
+#: ../functions.php:279 ../functions.php:292
+msgid "Custom"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:304 ../functions.php:305 ../functions.php:312
+msgid "Configuration"
+msgstr ""
+
+#: ../functions.php:321
+msgid "Title and Logo"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:328
+msgid "Use a Logo"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:329
+msgid ""
+"Check this option if you want to replace the Title and Description with a "
+"Logo instead. Below you'll have to enter the URL which points to the image "
+"you want to use as a Logo."
+msgstr ""
+
+#: ../functions.php:331 ../functions.php:370 ../functions.php:475
+#: ../functions.php:488 ../functions.php:510 ../functions.php:523
+#: ../functions.php:536 ../functions.php:581 ../functions.php:742
+#: ../functions.php:879 ../functions.php:892 ../functions.php:905
+#: ../functions.php:918 ../functions.php:931 ../functions.php:944
+#: ../functions.php:957 ../functions.php:1367
+msgid "No"
+msgstr ""
+
+#: ../functions.php:332 ../functions.php:371 ../functions.php:476
+#: ../functions.php:489 ../functions.php:511 ../functions.php:524
+#: ../functions.php:537 ../functions.php:582 ../functions.php:743
+#: ../functions.php:880 ../functions.php:893 ../functions.php:906
+#: ../functions.php:919 ../functions.php:932 ../functions.php:945
+#: ../functions.php:958 ../functions.php:1368
+msgid "Yes"
+msgstr ""
+
+#: ../functions.php:341
+msgid "Logo Image"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:342
+msgid ""
+"This will only be used if you set the above option to true and you don't "
+"leave this field blank. You can either upload a new image you want to use as "
+"a Logo or enter the URL of an existing image."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:350
+msgid "Link Title or Logo to"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:351
+msgid ""
+"Enter URL you want the Title or Logo to link to. Leave this field blank if "
+"you don't want the Title or Logo to be a link."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:360
+msgid "User Support"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:367
+msgid "Enable User Support?"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:368
+msgid ""
+"If enabled, you can use this section to display something helpful to "
+"visitors using which they can contact you. This could be your phone number, "
+"email address, etc."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:380
+msgid "User Support Icon"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:381
+#, php-format
+msgid ""
+"By default a telephone icon is used for the User Support section. You can "
+"upload an image here if you want to use a custom icon. Or you can use the "
+"following if you want to use an email icon: %s"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:390
+msgid "User Support Text"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:391
+msgid "Enter your Call to Action text here"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:400
+msgid "Search Form"
+msgstr ""
+
+#: ../functions.php:407
+msgid "Input Placeholder"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:408
+msgid ""
+"You can use this field to replace the default search input placeholder with "
+"something custom"
+msgstr ""
+
+#: ../functions.php:430
+msgid "Social Media"
+msgstr ""
+
+#: ../functions.php:432
+#, php-format
+msgid "Here are few social icons that come with this theme: %s"
+msgstr ""
+
+#: ../functions.php:441
+msgid "Icon"
+msgstr ""
+
+#: ../functions.php:449
+msgid "Link"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:456 ../functions.php:1380
+msgid "Title"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:465
+msgid "Comments Support"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:472
+msgid "Disable for Posts?"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:473
+msgid ""
+"Comments are by default enabled for Posts. Disable if you don't want to "
+"display comments for posts."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:485
+msgid "Enable for Pages?"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:486
+msgid ""
+"Comments are by default disabled for Pages. Enable if you want to display "
+"comments for Pages."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:500
+msgid "General"
+msgstr ""
+
+#: ../functions.php:507
+msgid "Disable Page Preloader?"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:508
+msgid ""
+"An animated preloader is displayed while your page loads. If you don't want "
+"the preloader to be displayed while the page loads then disable it from here."
+msgstr ""
+
+#: ../functions.php:520
+msgid "Disable AJAX Preloader?"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:521
+msgid ""
+"An animated preloader is displayed while content is fetched using AJAX. If "
+"you don't want the preloader to be displayed during AJAX calls then disable "
+"it from here."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:533
+msgid "Disable AJAX Pagination"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:534
+msgid ""
+"By default AJAX is used for paging which means the page doesn't refresh to "
+"fetch content from the next/previous page"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:546
+msgid "Default Skin"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:547
+msgid ""
+"Select the skin you want a new visitor to see by default. This can be "
+"changed if the scheme switcher is on. Selecting 'None' will display the "
+"theme using a monochromatic black/white/grey skin."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:560
+msgid "Default Background Underlay"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:561
+msgid ""
+"Select the background underlay you want a new visitor to see by default. "
+"This can be changed if the scheme switcher is on. Selecting 'None' will "
+"display the theme using a monochromatic black/white/grey background underlay."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:570
+msgid "Custom Background Underlay"
+msgstr ""
+
+#: ../functions.php:571
+msgid ""
+"If you want to use a custom background underlay then you can define it here"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:578
+msgid "Enable Custom Background Underlay"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:579
+msgid ""
+"Enable this if you want the custom background underlay to appear. Also make "
+"sure to define it below if you enable this option"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:591 ../functions.php:752
+msgid "Color"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:598 ../functions.php:759
+msgid "Position"
+msgstr ""
+
+#: ../functions.php:609 ../functions.php:650 ../functions.php:771
+#: ../functions.php:812
+msgid "Select Constant Value"
+msgstr ""
+
+#: ../functions.php:618 ../functions.php:659 ../functions.php:780
+#: ../functions.php:821
+msgid "Set Variable Value"
+msgstr ""
+
+#: ../functions.php:625 ../functions.php:666 ../functions.php:787
+#: ../functions.php:828
+msgid "X"
+msgstr ""
+
+#: ../functions.php:632 ../functions.php:673 ../functions.php:794
+#: ../functions.php:835
+msgid "Y"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:639 ../functions.php:801
+msgid "Size"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:684 ../functions.php:846
+msgid "Repeat"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:697 ../functions.php:859
+msgid "Attachment"
+msgstr ""
+
+#: ../functions.php:706 ../functions.php:868 ../functions.php:1256
+msgid "Image"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:707
+msgid "Use a custom underlay if you want to"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:721
+msgid "Default Background Overlay"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:722
+msgid ""
+"Select the background overlay you want a new visitor to see by default. This "
+"can be changed if the scheme switcher is on. Selecting 'None' will display "
+"the theme using a monochromatic black/white/grey background overlay."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:731
+msgid "Custom Background Overlay"
+msgstr ""
+
+#: ../functions.php:732
+msgid ""
+"If you want to use a custom background overlay then you can define it here"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:739
+msgid "Enable Custom Background Overlay"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:740
+msgid ""
+"Enable this if you want the custom background overlay to appear. Also make "
+"sure to define it below if you enable this option"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:869
+msgid "Use a custom overlay if you want to"
+msgstr ""
+
+#: ../functions.php:877
+msgid "Disable Scheme Switcher?"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:889
+msgid "Open External URLs in New Window"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:890
+#, php-format
+msgid ""
+"Open's all external URLs in a new window. Every URL which doesn't begin with "
+"%s is considered external."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:902
+msgid "Open Media URLs in New Window"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:903
+msgid ""
+"Open's all media URLs in a new window. Media URLs are those which end with "
+"extensions: jpg, jpeg, png, gif and pdf. This includes both internal and "
+"external URLs"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:915
+msgid "Disable qTip"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:916
+msgid "Disable display of titles using qTip"
+msgstr ""
+
+#: ../functions.php:928
+msgid "Disable Colorbox for Images"
+msgstr ""
+
+#: ../functions.php:929
+msgid "Disable loading of images using Colorbox"
+msgstr ""
+
+#: ../functions.php:941
+msgid "Disable Colorbox for Posts"
+msgstr ""
+
+#: ../functions.php:942
+msgid "Disable loading of posts using Colorbox"
+msgstr ""
+
+#: ../functions.php:954
+msgid "Disable Credit Link"
+msgstr ""
+
+#: ../functions.php:955
+msgid "Disable Credit Link shown in footer"
+msgstr ""
+
+#: ../functions.php:969
+msgid "Messages"
+msgstr ""
+
+#: ../functions.php:976
+msgid "Copyright"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:977
+#, php-format
+msgid ""
+"You can insert a custom copyright notice here. Use %1$s as a placeholder for "
+"a linked title of site or %2$s for a non-linked title."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:986
+msgid "You can insert a custom 404 message here."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:996
+msgid "Headings"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1005
+msgid "Taxonomies"
+msgstr ""
+
+#: ../functions.php:1006
+#, php-format
+msgid "Use %s as replacement substitution for the respective taxonomy term"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1013
+msgid "Category"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1021
+msgid "Tag"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1031
+msgid "Date-based"
+msgstr ""
+
+#: ../functions.php:1032
+#, php-format
+msgid "Use %s as replacement substitute for year, month or day respectively"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1039
+msgid "Yearly"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1047
+msgid "Monthly"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1055
+msgid "Daily"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1065
+msgid "Search Results"
+msgstr ""
+
+#: ../functions.php:1066 ../functions.php:1100
+#, php-format
+msgid "Use %s as replacement substitution for query being searched"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1073
+msgid "Main"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1081
+msgid "Post"
+msgstr ""
+
+#: ../functions.php:1089
+msgid "Page"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1099
+msgid "Others"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1115
+msgid "Author"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1133
+msgid "Labels"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1140
+msgid "Attachment Browser"
+msgstr ""
+
+#: ../functions.php:1141
+#, php-format
+msgid "Use %s as replacement substitute for attachment's Post title"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1149
+msgid "Current Attachment"
+msgstr ""
+
+#: ../functions.php:1150
+#, php-format
+msgid "Use %s as replacement substitute for attachment number"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1166
+msgid "Skin Selection"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1174
+msgid "Background Underlay Selection"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1182
+msgid "Background Overlay Selection"
+msgstr ""
+
+#: ../functions.php:1190
+msgid "No search results"
+msgstr ""
+
+#: ../functions.php:1215
+msgid "Gallery"
+msgstr ""
+
+#: ../functions.php:1223
+msgid "Images"
+msgstr ""
+
+#: ../functions.php:1232 ../functions.php:1264
+msgid "Full Size Image"
+msgstr ""
+
+#: ../functions.php:1234 ../functions.php:1266 ../functions.php:1297
+#: ../functions.php:1320
+msgid "This is required"
+msgstr ""
+
+#: ../functions.php:1241 ../functions.php:1273
+msgid "Small Size Image"
+msgstr ""
+
+#: ../functions.php:1289 ../functions.php:1296
+msgid "Video"
+msgstr ""
+
+#: ../functions.php:1310 ../functions.php:1319
+msgid "Audio"
+msgstr ""
+
+#: ../functions.php:1329
+msgid "Showcase Page"
+msgstr ""
+
+#: ../functions.php:1342
+msgid "Content Location"
+msgstr ""
+
+#: ../functions.php:1344
+msgid "Disable"
+msgstr ""
+
+#: ../functions.php:1345
+msgid "Top"
+msgstr ""
+
+#: ../functions.php:1346
+msgid "Bottom"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1358
+msgid "Teaser"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1365
+msgid "Disable Teaser"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1388
+msgid "Description"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1395
+msgid "Button Label"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1404
+msgid "Button URL"
+msgstr ""
+
+#: ../functions.php:1413
+msgid "Contact Page"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1427
+msgid "Form Code"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1434
+msgid "Map Code"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1441
+msgid "Address"
+msgstr ""
+
+#: ../functions.php:1442
+msgid ""
+"\n"
+"\t\t\t\t<p>Use the following format to enter address fields:</p>\n"
+"\t\t\t\t<p>Field Name | Field Value</p>\n"
+"\t\t\t\t<p>The name of the field is separated from the value using the | "
+"character. So an example address would look like:</p>\n"
+"\t\t\t\t<p>Phone | +1 234 567 89</p>\n"
+"\t\t\t\t<p>Fax | +1 987 654 32</p>\n"
+"\t\t\t\t<p>Email | you@example.com</p>\n"
+"\t\t\t\t<p>Website | http://www.example.com</p>\n"
+"\t\t\t\t<p>Email address and Website URLs are automatically converted into "
+"links but make sure your website URL begins with a scheme, i.e. http://, "
+"https:// etc</p>\n"
+"\t\t\t"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1776
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1784
+msgid "Permalink"
+msgstr ""
+
+# @ vertex
+#: ../functions.php:1786
+msgid "(Edit Comment)"
+msgstr ""
+
+# @ vertex
+#: ../header.php:35
+msgid "Go to primary links"
+msgstr ""
+
+# @ vertex
+#: ../header.php:36
+msgid "Go to social links"
+msgstr ""
+
+# @ vertex
+#: ../header.php:37
+msgid "Go to header section"
+msgstr ""
+
+# @ vertex
+#: ../header.php:38
+msgid "Go to site search form"
+msgstr ""
+
+# @ vertex
+#: ../header.php:39
+msgid "Go to main section"
+msgstr ""
+
+# @ vertex
+#: ../header.php:40
+msgid "Go to panel section"
+msgstr ""
+
+# @ vertex
+#: ../header.php:41
+msgid "Go to footer section"
+msgstr ""
+
+# @ vertex
+#: ../header.php:120
+msgid "Search"
+msgstr ""

@@ -1,0 +1,71 @@
+html {
+	background-color: #f6dfb5;
+}
+.wpc-links {
+	background-color: #ffd600;
+	border-top-color: #3a3100;
+}
+.wpc-links .wpc-navigation .sub-menu li:nth-child(odd) > a {
+	background-color: #ffee93;
+}
+.wpc-links .wpc-navigation .sub-menu li:nth-child(even) > a {
+	background-color: #ffe146;
+}
+.wpc-links .wpc-navigation li > a:hover, .wpc-links .wpc-navigation .current-menu-item > a {
+	background-color: #3a3100 !important;
+}
+.wpc-slider .wpc-slide .wpc-date {
+	background-color: #ffd600;
+}
+.wpc-slider .wpc-line span {
+	background-color: #ffd600;
+}
+.wpc-slider .wpc-pager span:hover, .wpc-slider .wpc-pager .wpc-active, .wpc-scroller .wpc-direction img:hover, .wpc-testimonials .wpc-direction img:hover {
+	background-color: #ffd600;
+}
+.wpc-scroller .wpc-scroll li:hover .wpc-details, .wpc-type-portfolio-preview:hover .wpc-details {
+	border-bottom-color: #ffd600;
+}
+.wpc-teaser .wpc-link a {
+	background-color: #ffd600;
+	border-bottom-color: #beb234; border-right-color: #beb234;
+	border-top-color: #c3b848; border-left-color: #c3b848;
+}
+.wpc-teaser .wpc-link a:hover {
+	background-color: #ffe144;
+	border-bottom-color: #bcb13d; border-right-color: #bcb13d;
+	border-top-color: #b1a746; border-left-color: #b1a746;
+}
+.wpc-type-portfolio-full .wpc-gallery .wpc-direction img:hover {
+	background-color: #e7bf07;
+}
+.wpc-blog-sidebar a:hover {
+	color: #d9b600;
+}
+.wpc-pagination a, .wp-pagenavi * {
+	background-color: #ffe661;
+	border-color: #ffd600;
+}
+.wpc-pagination a:hover, .wp-pagenavi .current {
+	background-color: #ffd600;
+	border-color: #ddb900;
+}
+.wpc-comments .comment-reply-link {
+	background-color: #111;
+}
+.wpc-comments .comment-reply-link:hover {
+	background-color: #e7bf07;
+	color: #111;
+}
+.wpc-type-attachment .wpc-navigation img:hover {
+	background-color: #e7bf07;
+}
+.wpc-panel > ul > li a {
+	color: #ffd600;
+}
+.wpc-panel > ul > li li a:hover {
+	color: #ffd600;
+}
+.wpc-footer a {
+	color: #ffd600;
+}

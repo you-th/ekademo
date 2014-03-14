@@ -1,0 +1,103 @@
+html {
+	background-color: #828277;
+}
+.widget_calendar a {
+	background-color: #bd6725;
+	color: #f5efdb;
+}
+.widget_calendar a:hover {
+	background-color: #d06a1d;
+}
+.wpc-links {
+	background-color: #d4e8c1;
+	border-top-color: #828277;
+}
+.wpc-links .wpc-navigation .sub-menu li:nth-child(odd) > a {
+	background-color: #cbd8be;
+}
+.wpc-links .wpc-navigation .sub-menu li:nth-child(even) > a {
+	background-color: #e1ebd7;
+}
+.wpc-links .wpc-navigation li > a:hover, .wpc-links .wpc-navigation .current-menu-item > a {
+	background-color: #828277 !important;
+}
+.wpc-links .wpc-navigation a {
+	color: #828277;
+}
+.wpc-header .wpc-title, .wpc-header .wpc-title a {
+	color: #ed8a3f;
+}
+.wpc-slider .wpc-slide .wpc-date {
+	background-color: #8db87c;
+}
+.wpc-slider .wpc-line span {
+	background-color: #8db87c;
+}
+.wpc-slider .wpc-pager span:hover, .wpc-slider .wpc-pager .wpc-active, .wpc-scroller .wpc-direction img:hover {
+	background-color: #8db87c;
+}
+.wpc-scroller .wpc-scroll li:hover .wpc-details, .wpc-type-portfolio-preview:hover .wpc-details {
+	border-bottom-color: #d4e8c1;
+}
+.wpc-teaser .wpc-link a {
+	background-color: #ff9341;
+	border-bottom-color: #eb7e2c; border-right-color: #eb7e2c;
+	border-top-color: #ea731a; border-left-color: #ea731a;
+}
+.wpc-teaser .wpc-link a:hover {
+	background-color: #ff9f57;
+	border-bottom-color: #f8852f; border-right-color: #f8852f;
+	border-top-color: #f3781c; border-left-color: #f3781c;
+}
+.wpc-pagination a, .wp-pagenavi * {
+	background: #e3efd9;
+	border-color: #c2d9ad;
+	color: #6c955c;
+}
+.wpc-pagination a:hover, .wp-pagenavi .current {
+	background: #ececd7;
+	border-color: #d7d7b4;
+	color: #828277;
+}
+.wpc-type-portfolio-full .wpc-gallery .wpc-direction img:hover {
+	background-color: #8db87c;
+}
+.wpc-blog-sidebar .wpc-heading {
+	color: #69695c;
+}
+.wpc-blog-sidebar a {
+	color: #6a9459;
+}
+.wpc-blog-sidebar a:hover {
+	color: #e06c13;
+}
+.wpc-type-post-preview .wpc-meta a, .wpc-type-post-full .wpc-meta a {
+	color: #ed8a3f;
+	text-decoration: none;
+}
+.wpc-comments .comment-reply-link {
+	background-color: #828277;
+	color: #e6e6d4;
+}
+.wpc-comments .comment-reply-link:hover {
+	background-color: #6a6a5e;
+}
+.wpc-type-attachment .wpc-navigation img:hover {
+	background-color: #8db87c;
+}
+.wpc-panel {
+	background-color: #5e5e54;
+}
+.wpc-panel > ul > li a {
+	color: #d5e1dd;
+}
+.wpc-panel > ul > li li a:hover {
+	color: #d5e1dd;
+}
+.wpc-footer {
+	background-color: #f5d769;
+	color: #658458;
+}
+.wpc-footer a {
+	color: #b16730;
+}

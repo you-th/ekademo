@@ -1,0 +1,84 @@
+html {
+	background-color: #0e293e;
+}
+.widget_calendar a {
+	background-color: #0e293e;
+}
+.widget_calendar a:hover {
+	background-color: #164060;
+}
+.wpc-links {
+	background-color: #0e293e;
+	border-top-color: #000105;
+}
+.wpc-links .wpc-navigation, .wpc-links .wpc-navigation a {
+	color: #f3f8fa;
+}
+.wpc-links .wpc-navigation .sub-menu li:nth-child(odd) > a {
+	background-color: #224458;
+}
+.wpc-links .wpc-navigation .sub-menu li:nth-child(even) > a {
+	background-color: #103f59;
+}
+.wpc-links .wpc-navigation li > a:hover, .wpc-links .wpc-navigation .current-menu-item > a {
+	background-color: #071622 !important;
+}
+.wpc-slider .wpc-slide .wpc-date {
+	background-color: #ddf2f3;
+}
+.wpc-slider .wpc-line span {
+	background-color: #03090e;
+}
+.wpc-slider .wpc-direction img:hover, .wpc-slider .wpc-pager span:hover, .wpc-slider .wpc-pager .wpc-active, .wpc-scroller .wpc-direction img:hover, .wpc-type-portfolio-full .wpc-gallery .wpc-direction img:hover, .wpc-type-attachment .wpc-navigation img:hover {
+	background-color: #132a37;
+}
+.wpc-scroller .wpc-scroll li:hover .wpc-details, .wpc-type-portfolio-preview:hover .wpc-details {
+	border-bottom-color: #0e293e;
+}
+.wpc-teaser .wpc-link a {
+	background-color: #b3d5e5;
+	border-bottom-color: #6ba6c1; border-right-color: #6ba6c1;
+	border-top-color: #c5dae4; border-left-color: #c5dae4;
+	color: #12324f;
+}
+.wpc-teaser .wpc-link a:hover {
+	background-color: #bfe1f1;
+	border-bottom-color: #649bb4; border-right-color: #649bb4;
+	border-top-color: #b8cbd4; border-left-color: #b8cbd4;
+	color: #0f2a42;
+}
+.wpc-blog-sidebar a:hover {
+	color: #072034;
+}
+.wpc-pagination a, .wp-pagenavi * {
+	background-color: #0e293e;
+	border-color: #071622;
+	color: #f3f8fa;
+}
+.wpc-pagination a:hover, .wp-pagenavi .current {
+	background-color: #184567;
+	border-color: #0f2c44;
+	color: #fefefe;
+}
+.wpc-comments .comment-reply-link {
+	background-color: #111;
+}
+.wpc-comments .comment-reply-link:hover {
+	background-color: #bad6e7;
+	color: #111;
+}
+.wpc-panel {
+	background-color: #03090e;
+}
+.wpc-panel > ul > li a {
+	color: #b4ddf3;
+}
+.wpc-panel > ul > li li a:hover {
+	color: #b4ddf3;
+}
+.wpc-footer {
+	background-color: #132a37;
+}
+.wpc-footer a {
+	color: #b4ddf3;
+}
